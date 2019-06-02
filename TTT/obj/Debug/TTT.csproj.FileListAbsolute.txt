@@ -1,0 +1,5 @@
+C:\Users\user\Source\Repos\wpf\TTT\TTT\bin\Debug\TTT.dll
+C:\Users\user\Source\Repos\wpf\TTT\TTT\bin\Debug\TTT.pdb
+C:\Users\user\Source\Repos\wpf\TTT\TTT\obj\Debug\TTT.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\wpf\TTT\TTT\obj\Debug\TTT.dll
+C:\Users\user\Source\Repos\wpf\TTT\TTT\obj\Debug\TTT.pdb
